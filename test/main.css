@@ -1,0 +1,121 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Segoe UI, Helvetica, sans-serif;
+}
+
+.clr {
+    clear: both;
+}
+
+.container {
+    width: 500px;
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+
+    border: 5px red solid;
+    margin: auto;
+    padding: 10px;
+}
+
+.choices {
+    border: 2px blue solid;
+    margin: 50px 0px 0px 0px;
+    border-radius: 20px;
+    height: 400;
+}
+
+.choices h2 {
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+.choices ul {
+    list-style: none;
+    padding: 25px;
+    margin: 0px 0px 0px 0px;
+}
+
+.choices li {
+    margin: 40px 0px 0px 0px;
+}
+
+.choices a {
+    text-decoration: none;
+    color: royalblue;
+    border: 1.5px solid;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    border-radius: 50px;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: red;
+}
+
+.block {
+    width: 33.3%;
+    float: left;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 0px;
+    box-sizing: border-box;
+}
+
+#main-block {
+    float: left;
+    width: 70%;
+}
+
+#sidebar {
+    background-color: black;
+    width: 30%;
+    float: right;
+    color: white;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.p-box {
+    width: 800px;
+    height: 500px;
+    border: 2px solid black;
+    margin-top: 30px;
+    position: relative;
+    background-image: url(images/home_blu.png);
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background-color: coral;
+    padding: 0px;
+    color: white;
+    margin: 0px;
+}
+
+.navbar ul {
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    padding: 0px 50px 0px 0px;
+}
+
+.navbar a:hover {
+    color: dodgerblue;
+}
+
+.navbar li {
+    display: inline;
+}
