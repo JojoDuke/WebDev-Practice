@@ -1,0 +1,72 @@
+.firstProject {
+    background-color: black;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 5px;
+}
+
+.firstProject h2 {
+    color: aliceblue;
+}
+
+.body {
+    background-color: #E6F7FF;
+}
+
+#Conclusion {
+    background-color: #FF8B3E;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+    padding: 30px;
+    color: aliceblue;
+}
+
+#Conclusion h2 {
+    text-decoration: underline;
+}
+
+.ps {
+    text-decoration: underline;
+}
+
+.js {
+    padding: 30px;
+    color: aliceblue;
+    background-color: #D93600;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+.imgWords {
+    background-image: url(images/300px-Great_Fire_London.jpg);
+    align-content: center;
+    align-self: center;
+    width: 1110px;
+    height: 170px;
+    padding: 0px;
+}
+
+.imgWords h3 {
+    padding: 60px;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+#OoF {
+    margin-top: 50px;
+}
+
+.jumbotron {
+    background-color: white;
+    border: solid 1px lightgray;
+}
+
+.nev {
+    background-color: red;
+}
