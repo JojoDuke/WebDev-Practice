@@ -10,4 +10,5 @@ My first serious(ish) website. Its a sort of brief rundown of the great fire of 
 
 ## 2.Marvel Movies
 A bootleg Marvel website. For this one I tried using more vanilla CSS instead of relying on Bootstrap, I feel like having a grasp on basic CSS itself will help greatly when using Bootstrap. So far its kinda confusing but I'am getting a hang of things. Made this in 9 days<br>
-**Technologies Used:** HTML/CSS, Javascript
+**Technologies Used:** HTML/CSS, Javascript<br>
+![Marvel Movies Homepage](https://imgur.com/a/cALfgzZ.jpg)
